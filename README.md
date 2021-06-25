@@ -1,2 +1,2 @@
 # OrderStats
-This code is to get the data from OMS order statistics and put it into  Kafka topic for debugging
+pull OMS order stats and write it into  Kafka topic for debugging
